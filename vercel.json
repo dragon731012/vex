@@ -1,0 +1,7 @@
+{
+  "name": "generalmathsmod",
+  "buildCommand": "echo COMPLETED",
+  "installCommand": "npm install",
+  "outputDirectory": "static",
+  "cleanUrls": true
+}
