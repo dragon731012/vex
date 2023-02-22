@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: GeneralMathsMOD
-    env: static
-    plan: Starter
-    buildCommand: bash render.sh
-    staticPublishPath: ./static
-    pullRequestPreviewsEnabled: true
